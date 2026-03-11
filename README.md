@@ -33,3 +33,10 @@ pip install -r requirements.txt
 Run the script:
 
 python fraud_detection.py
+## Dataset
+
+Download the dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` in the project folder before running the script.
